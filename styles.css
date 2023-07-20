@@ -217,6 +217,7 @@ span {
 /* logo section styles */
 .logo-section{
   margin: 50px;
+  min-height: 80px;
   
 }
 
@@ -232,7 +233,8 @@ span {
   align-items: center;
   justify-content: center;
   padding: 5px;
-  border: 1px solid blue;
+  gap: 5px;
+  /* border: 1px solid blue; */
 }
 
 .footer-container{
@@ -247,6 +249,7 @@ span {
   justify-content: center;
   align-items: center;
   gap: 10px;
+  color: #FFF;
 }
 
 .about-list{
@@ -276,4 +279,5 @@ span {
   font-size: 12px;
  }
 
+ 
 
