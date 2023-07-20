@@ -234,9 +234,9 @@ span {
   justify-content: center;
   padding: 5px;
   gap: 5px;
-  /* border: 1px solid blue; */
 }
 
+/* footer styles */
 .footer-container{
   max-width: 1400px;
   min-height: 200px;
